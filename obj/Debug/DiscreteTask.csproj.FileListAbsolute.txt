@@ -1,0 +1,8 @@
+C:\Users\farah\OneDrive\Desktop\projects\DiscreteTask\DiscreteTask\bin\Debug\DiscreteTask.exe.config
+C:\Users\farah\OneDrive\Desktop\projects\DiscreteTask\DiscreteTask\bin\Debug\DiscreteTask.exe
+C:\Users\farah\OneDrive\Desktop\projects\DiscreteTask\DiscreteTask\bin\Debug\DiscreteTask.pdb
+C:\Users\farah\OneDrive\Desktop\projects\DiscreteTask\DiscreteTask\obj\Debug\DiscreteTask.csproj.AssemblyReference.cache
+C:\Users\farah\OneDrive\Desktop\projects\DiscreteTask\DiscreteTask\obj\Debug\DiscreteTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\farah\OneDrive\Desktop\projects\DiscreteTask\DiscreteTask\obj\Debug\DiscreteTask.csproj.CoreCompileInputs.cache
+C:\Users\farah\OneDrive\Desktop\projects\DiscreteTask\DiscreteTask\obj\Debug\DiscreteTask.exe
+C:\Users\farah\OneDrive\Desktop\projects\DiscreteTask\DiscreteTask\obj\Debug\DiscreteTask.pdb
